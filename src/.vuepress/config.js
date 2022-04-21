@@ -53,6 +53,13 @@ module.exports = {
           children: [
             '2.4.4'
           ]
+        },
+        {
+          title: 'Trends',
+          collapsable: false,
+          children: [
+            '2.4.4'
+          ]
         }
       ]
     }
@@ -73,6 +80,7 @@ module.exports = {
           repo: 'aroundmagento',
           owner: 'greatdex',
           admin: ['greatdex'],
+          labels: ['Gitalk'],
           distractionFreeMode: false 
         }
       }
