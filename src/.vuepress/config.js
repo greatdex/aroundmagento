@@ -64,5 +64,19 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    [
+      'vuepress-plugin-comment',
+      {
+        choosen: 'gitalk', 
+        options: {
+          clientID: 'b75651c31292d7aff917',
+          clientSecret: '569b9f7356e96bdbf90d2911fe88b2c09f403814',
+          repo: 'https://github.com/greatdex/aroundmagento',
+          owner: 'greatdex',
+          admin: ['greatdex'],
+          distractionFreeMode: false 
+        }
+      }
+    ]
   ]
 }
