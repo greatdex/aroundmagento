@@ -58,7 +58,7 @@ module.exports = {
           title: 'Trends',
           collapsable: false,
           children: [
-            '2.4.4'
+            'composable'
           ]
         }
       ]
