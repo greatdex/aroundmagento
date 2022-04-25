@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Everything around Magento
+heroImage: logo_cube.png
+# tagline: Everything around Magento
 actionText: Quick Start →
 actionLink: /guide/
 features:
