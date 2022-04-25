@@ -5,11 +5,11 @@ heroImage: logo_cube.png
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Developers Small Talk
+  details: Developers topics in eCommerce
+- title: Upgrade Consideration
+  details: Consideration for Multiple Scenarios
+- title: eCommerce Trends
+  details: New trends in eCommerce sectors
 footer: Made by dex with ❤️
 ---
