@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: logo_cube.png
-# tagline: Everything around Magento
+tagline:  
 actionText: Quick Start →
 actionLink: /guide/
 features:
