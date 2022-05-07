@@ -51,6 +51,7 @@ module.exports = {
           title: 'Upgrade Consideration',
           collapsable: false,
           children: [
+            'upgrade_intro',
             '2.4.4'
           ]
         },

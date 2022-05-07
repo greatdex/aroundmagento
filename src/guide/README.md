@@ -1,6 +1,6 @@
 ## Introduction
 
-This site is a place where talks of all things related to digital commerce take place.
+This _Small Talk_ section is a place where talks of all things related to digital commerce take place.
 
 Thank you for coming!
 
